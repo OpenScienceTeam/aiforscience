@@ -13,7 +13,7 @@ site:
 
 <!-- An open-source knowledge database, interactive, neural network formation, with AI -->
 <!-- ![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png) -->
-![Figure1](./Figure-1.png)
+![book](./aiforscience.png)
 
 {button}`Get Started </chapter2>`
 
