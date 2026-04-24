@@ -1,5 +1,5 @@
 ---
-title: AI For Science
+title: Generative Models for Materials Science
 site:
   hide_title_block: true
   hide_toc: true
@@ -9,7 +9,7 @@ site:
 
 +++ { "kind": "split-image" }
 
-## Welcome to AI For Science
+## Welcome to Generative Models for Materials Science
 
 <!-- An open-source knowledge database, interactive, neural network formation, with AI -->
 <!-- ![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png) -->
