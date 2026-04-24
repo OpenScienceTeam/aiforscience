@@ -1,0 +1,39 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: a5ae4263-ce88-42d9-950c-81c20e000455
+  toc:
+    - file: index.md
+    - file: book.md
+  # title:
+  # description:
+  authors: [OpenScienceTeam]
+  # authors: []
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  jupyter:
+    binder:
+      repo: https://github.com/OpenScienceTeam/General-Chemistry # default repo
+site:
+  template: book-theme
+  title: AI For Science
+  options:
+    hide_toc: false  # Hide the table of contents in the sidebar
+    hide_outline: false  # Hide the outline (the floating table of contents)
+    logo_text: AI For Science
+    logo: favicon.ico
+    style: ./css/footer.css
+    favicon: favicon.ico
+    base_url: /aiforscience/
+  nav:
+    - title: Book
+      url: /book
+    - title: OpenScience
+      url: https://openscienceteam.github.io/OpenScience/
+  actions:
+    - title: OpenScienceTeam
+      url: https://github.com/OpenScienceTeam
+  parts:
+    footer: footer.md
+    primary_sidebar_footer: primary-sidebar-footer.md
+  domains: []
