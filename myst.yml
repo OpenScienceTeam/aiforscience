@@ -13,7 +13,7 @@ project:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   jupyter:
     binder:
-      repo: https://github.com/OpenScienceTeam/General-Chemistry # default repo
+      repo: https://github.com/OpenScienceTeam/aiforscience # default repo
 site:
   template: book-theme
   title: Generative Models for Materials Science
