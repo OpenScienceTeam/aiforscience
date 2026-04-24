@@ -38,7 +38,9 @@ jobs:
       - name: Install MyST
         run: npm install -g mystmd
       - name: Build HTML Assets
-        run: myst build --html
+        run: |
+          echo "Using BASE_URL=$BASE_URL"
+          BASE_URL=$BASE_URL myst build --html --execute
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
