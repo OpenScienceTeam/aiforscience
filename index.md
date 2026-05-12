@@ -15,7 +15,7 @@ site:
 <!-- ![](https://raw.githubusercontent.com/rowanc1/pics/refs/heads/main/banff-tall.png) -->
 ![book](./aiforscience.png)
 
-{button}`Get Started </chapter2>`
+{button}`Get Started </book>`
 
 +++
 
